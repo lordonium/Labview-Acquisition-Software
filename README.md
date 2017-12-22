@@ -8,7 +8,7 @@ Reported bugs/fixes will be submitted to correction
 
 ## Authors
 
-* **Sergey Chernayev** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Sergey Chernayev** - *Initial work* - [lordonium](https://github.com/lordonium)
 
 <!-- See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
  -->
