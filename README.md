@@ -1,5 +1,4 @@
 # Labview-Acquisition-Software
-==========================================================
 
 Author & Contributor List 
 -------------
