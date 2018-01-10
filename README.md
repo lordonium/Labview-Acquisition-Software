@@ -1,4 +1,4 @@
-<p align="center"><img width=12.5% src="https://github.com/lordonium/Labview-Acquisition-Software/blob/master/media/main_pic.png"></p>
+<p align="center"><img width=100% src="https://github.com/lordonium/Labview-Acquisition-Software/blob/master/media/main_pic.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-v2015.1-yellow.svg)
