@@ -47,6 +47,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
+* Arutyгnov Konstantin Yurievich (for an exciting opportunity to work on this amazing project)
 * Zavyalov Vitaly Vadimovich (inspiring ideas about DAQ and software in general)
 * Khaldeev Stanislav Igorevich (amazing tips about the code) 
 
