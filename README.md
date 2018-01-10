@@ -16,7 +16,8 @@ Every experiment implies acquiring some measurement data, saving  and analyzing 
 * 5110 EG&G Princeton Applied Research Lock-In Amplifier
 * KUSB-3116 Keithley 16-Bit USB DAQ Module
 
-
+As a result I have written 9 Pre-Alpha versions, 6 Alpha versions and 3 Beta versions.
+Current version i ы [Beta Ver 1.2.vi](https://github.com/lordonium/Labview-Acquisition-Software/blob/master/Beta/Beta%20Ver%201.2.vi)
 
 ## Testing the Software without Preamps
 
