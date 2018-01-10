@@ -16,7 +16,13 @@ Every experiment implies acquiring some measurement data, saving  and analyzing 
 
 As a result I have written 9 Pre-Alpha versions, 6 Alpha versions and 3 Beta versions.
 
-Current version is [Beta Ver 1.2.vi](https://github.com/lordonium/Labview-Acquisition-Software/blob/master/Beta/Beta%20Ver%201.2.vi). 
+The current version is [Beta Ver 1.2.vi](https://github.com/lordonium/Labview-Acquisition-Software/blob/master/Beta/Beta%20Ver%201.2.vi). 
+
+## Details 
+
+To be written
+
+If by any chance you know Russian, you can read a very detailed explanation of the project in this report: [Report](https://github.com/lordonium/Labview-Acquisition-Software/blob/master/media/report.pdf)
 
 ## Testing the Software without Preamps
 
