@@ -1,4 +1,9 @@
 # Labview-Acquisition-Software
+> Short blurb about what your product does.
+
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 
 Every experiment implies acquiring some measurement data, saving  and analyzing it. I was asked to write a software using LabVIEW 2015 SP1 to perform this things for four devices: 
 * Keithley 6221
