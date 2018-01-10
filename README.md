@@ -9,11 +9,14 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Basic Overview
-Every experiment implies acquiring some measurement data, saving  and analyzing it. I was asked to write a software using LabVIEW 2015 SP1 to perform this things for four devices: 
-* Keithley 6221
-* Keithley 2000
-* Princeton Lock-In 5110
-* Keithley DAQ 
+Every experiment implies acquiring some measurement data, saving  and analyzing it. While workinng at P.L. Kapitza Institute for Physical Problems of Russian Academy of Sciences I was asked to wrtite a software to perform afore mentioned tasks for several instruments:
+ 
+* 6221 Keithley Precision DC and AC+DC Low Noise Current Source
+* 2000 Keithley Precision Multimeter
+* 5110 EG&G Princeton Applied Research Lock-In Amplifier
+* KUSB-3116 Keithley 16-Bit USB DAQ Module
+
+
 
 ## Testing the Software without Preamps
 
