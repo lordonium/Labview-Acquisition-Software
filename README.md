@@ -10,6 +10,10 @@ Every experiment implies acquiring some measurement data, saving  and analyzing 
 
 [![](https://img.youtube.com/vi/1zslwP459LM/0.jpg)](https://www.youtube.com/watch?v=1zslwP459LM)
 
+## Testing the Software with Preamps
+
+[![](https://img.youtube.com/vi/ykHOAFcCeJ0/0.jpg)](https://www.youtube.com/watch?v=ykHOAFcCeJ0)
+
 ## Authors
 
 * **Sergey Chernayev** - *Initial work* - [lordonium](https://github.com/lordonium)
