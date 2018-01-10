@@ -6,6 +6,10 @@ Every experiment implies acquiring some measurement data, saving  and analyzing 
 * Princeton Lock-In 5110
 * Keithley DAQ 
 
+## Testing the Software without Preamps
+
+[![](https://img.youtube.com/vi/1zslwP459LM/0.jpg)](https://www.youtube.com/watch?v=1zslwP459LM)
+
 ## Authors
 
 * **Sergey Chernayev** - *Initial work* - [lordonium](https://github.com/lordonium)
