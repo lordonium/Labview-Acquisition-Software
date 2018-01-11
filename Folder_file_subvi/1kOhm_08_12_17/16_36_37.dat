@@ -1,0 +1,5 @@
+# 1kOhm 08/12/2017  PREAMPS 
+# Lock-In: 5110 Sensitivity: 100mV Time Constant: MIN | | Keithley: 6221 Start current: 1.00E-9 A Stop current: 2.00E-9 A
+# t, ms   6221, A      2000, V      5110_X, V      5110_Y, V    DAQ A0, V      DAQ A1, V    DAQ A2, V    DAQ A3, V     DAQ A4, V     
+00000648   1.00E-9     0.000898     0.00000E+0    0.0000E+0   -1.2207E-3     0.0000E+0   -6.1035E-4     0.0000E+0      0.000000 
+00001262   1.02E-9     0.000830     0.00000E+0    0.0000E+0   -1.2207E-3    -3.0518E-4    0.0000E+0    -3.0518E-4     -0.000610 
