@@ -26,6 +26,12 @@ Most of the instruments did not give any trouble while indtalling all the necess
 
 To our greatest fears the DAQ was ~~a pain in the ass~~. Not only did it have faulty drivers, it also got possesed by a demon. Actually, Keithley company was purchased by Tektronix and consequently they canceled the support for this product. As a result, the libs could only be installed only on the *LabVIEW 7.1*. After some magic was applied I found the original company who producers the original DAQ boards and got from their official website all the needed drivers and libs.
 
+###### Software
+
+Here I will explain the main parts in order for the users to speed up the compilation process.
+
+1. **[Beta Ver 1.2.vi](https://github.com/lordonium/Labview-Acquisition-Software/blob/master/Beta/Beta%20Ver%201.2.vi)**
+
 To be written
 
 If by any chance you know Russian, you can read a very detailed explanation of the project in this report: [Report](https://github.com/lordonium/Labview-Acquisition-Software/blob/master/media/report.pdf)
