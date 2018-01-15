@@ -170,7 +170,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Arutyunov Konstantin Yurievich (for an exciting opportunity to work on this amazing project)
-* Zavyalov Vitaly Vadimovich (inspiring ideas about DAQ and software in general)
+* [Arutyunov Konstantin Yurievich](https://www.hse.ru/en/org/persons/117711945) (for an exciting opportunity to work on this amazing project)
+* [Zavyalov Vitaly Vadimovich](http://www.kapitza.ras.ru/~zav/index.en.php) (inspiring ideas about DAQ and software in general)
 * Khaldeev Stanislav Igorevich (amazing tips about the code) 
 
