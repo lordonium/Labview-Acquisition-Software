@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Basic Overview
-Every experiment implies acquiring some measurement data, saving  and analyzing it. While workinng at P.L. Kapitza Institute for Physical Problems of Russian Academy of Sciences I was asked to wrtite a software to perform afore mentioned tasks for several instruments:
+Every experiment implies acquiring some measurement data, saving and analyzing it. While workinng at P.L. Kapitza Institute for Physical Problems of Russian Academy of Sciences I was asked to wrtite a software to perform afore mentioned tasks for several instruments:
  
 * 6221 Keithley Precision DC and AC+DC Low Noise Current Source
 * 2000 Keithley Precision Multimeter
@@ -24,7 +24,7 @@ The current version is [Beta Ver 1.2.vi](https://github.com/lordonium/Labview-Ac
 
 Most of the instruments did not give any trouble while indtalling all the necessary libraries. Practically all of them had a support from National Instruments. However, Lock-In's libs were a little bit outdated, so I had to fix it by replacing the 'Visa open' function with the new one.
 
-To our greatest fears the DAQ was ~~a pain in the ass~~. Not only did it have faulty drivers, it also got possesed by a demon. Actually, Keithley company was purchased by Tektronix and consequently they canceled the support for this product. As a result, the libs could only be installed only on the *LabVIEW 7.1*. After some magic was applied I found the original company who producers the original DAQ boards and got from their official website all the needed drivers and libs.
+To our greatest fears the DAQ was ~~a pain in the ass~~. Not only did it have faulty drivers, it also got possesed by a demon. Actually, Keithley company was purchased by Tektronix and consequently they canceled the support for this product. As a result, the libs could only be installed only on the *LabVIEW 7.1*. After some magic was applied I found the manufacturing company who producers the original DAQ boards for other brands and got from their official website all the needed drivers and libs.
 
 #### **Software**
 
@@ -32,7 +32,7 @@ Here I will explain the main parts in order for the users to speed up the compil
 
 1. **[Beta Ver 1.2.vi](https://github.com/lordonium/Labview-Acquisition-Software/blob/master/Beta/Beta%20Ver%201.2.vi)**
 
-This is the main VI which acquires data from  our instruments writes it into the measurement file and also represents it in the real time plot figure. 
+This is the main VI which acquires data from our instruments writes it into the measurement file and also represents it in the real time plot figure. 
 
 2. **[File creation.vi](https://github.com/lordonium/Labview-Acquisition-Software/blob/master/Folder_file_subvi/folder_creation.vi)**
 
@@ -44,7 +44,7 @@ This subVI checks if the folder has already been created or creates one in this 
 
 4. **[Instruments Readings.vi](https://github.com/lordonium/Labview-Acquisition-Software/blob/master/instr_comments_readings/com_inst.vi)**
 
-This subVI outputs a string with initial instruments' settings that is futher written into the measurements file. As a part of the experiments the users need to know how the instruments were configured before the start.
+This subVI outputs a string with initial instruments' settings that is futher written into the measurements file. As a part of the experiment the users need to know how the instruments were preconfigured.
 
 5. **[Get Lock-In's sensitivity.vi](https://github.com/lordonium/Labview-Acquisition-Software/blob/master/instr_comments_readings/read_sense.vi)**
 
@@ -70,7 +70,7 @@ Here is a demonstration of the working software with preamplifiers.
 
 ## Results
 
-#### **The results of the measuremnt of the 1kOhm sample with preamplifiers**
+#### **The results of the measurement of the 1kOhm sample with preamplifiers**
 
 ```
 # 1kOhm 08/12/2017  PREAMPS EXPERIMENT
@@ -129,7 +129,7 @@ Here is a demonstration of the working software with preamplifiers.
 00050000   2.00E-6     1.993207     4.28000E-3    1.0700E-3   -1.9730E+0    -3.0518E-4   -3.0518E-4    -3.0518E-4      0.000000 
 ```
 
-#### **Another example of the measuremnt file in which case the Lock-In's sensitivity was changed**
+#### **Another example of the measurement file in which case the Lock-In's sensitivity was changed**
 ```
 # 16/11/17
 # Lock-In: 5110 Sensitivity: 500mV Time Constant: MIN | | Keithley: 6221 Start current: 1.00E-3 A Stop current: 1.20E-3 A
